@@ -1,3 +1,12 @@
+# Ignore list for Kicad
+*-backups/
+sym-lib-table
+fp-lib-table
+fp-info-cache
+*.kicad_wks
+*.kicad_prl
+
+
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
